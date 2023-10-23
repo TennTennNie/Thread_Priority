@@ -1,0 +1,22 @@
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\bin\Debug\FrmBasicThreads.exe.config
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\bin\Debug\FrmBasicThreads.exe
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\bin\Debug\FrmBasicThreads.pdb
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.AssemblyReference.cache
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.FrmBasicThreads.resources
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.Properties.Resources.resources
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.GenerateResource.cache
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.CoreCompileInputs.cache
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.exe
+C:\Users\terencio.268853\source\repos\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.pdb
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\bin\Debug\FrmBasicThreads.exe.config
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\bin\Debug\FrmBasicThreads.exe
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\bin\Debug\FrmBasicThreads.pdb
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.AssemblyReference.cache
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.FrmBasicThreads.resources
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.Properties.Resources.resources
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.GenerateResource.cache
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.csproj.CoreCompileInputs.cache
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.exe
+C:\Users\terencio.268853\Downloads\Basic_Threading-main (1)\Basic_Threading-main\FrmBasicThreads\FrmBasicThreads\obj\Debug\FrmBasicThreads.pdb
